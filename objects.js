@@ -44,11 +44,11 @@ console.log(Object.keys(foods));
 // Declare a variable that stores an object. Each key should be an attribute of an email and each
 // value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 var email = {
-  from: "Chase BAnk",
-  to: "tmodlinfilippi@gmail.com",
+  from: "Chase Bank",
+  to: "Triston Modlin-Filippi",
+  security: "Standard Encryption",
   subject: "Bank Statement Posted",
-  dateAndTime: Mar 28, 2023, 1:57 PM
-  unsubscribe: "Unsubscribe from this sender";
+  unsubscription: "Unsubscribe from this letter"
 }
 
 // Write code that logs your email object to the terminal.
@@ -60,7 +60,7 @@ console.log(Object.keys(email));
 
 // Write code that logs all of the 'values' of the email object 
 // you created above:
-console.log(object.values(email));
+console.log(Object.values(email));
 
 
 // -------------------
@@ -111,3 +111,25 @@ console.log(posts[0]);
 // YOU DO: Create an array of at least 3 EMAIL Objects, using the same 
 // key-value pairs you used in your email Object above.
 // Then, print the email Array to the Terminal.
+
+
+var email = [
+  {
+    account: "Chase Bank",
+    dateAndTime: "2023-03-21",
+    email: "chase@email.chase.com", "chase@e.chase.com"
+    active: true
+  },
+  {
+    account: "Triston Modlin-Filippi",
+    dateAndTime: "2023-03-21",
+    email: "tmodlinfilippi@gmail.com",
+    active: true
+  },
+  {
+    account: "Chase Customer Service",
+    dateAndTime: "2023-03-21",
+    email: "no email, phone number - xxx-xxx-xxxx",
+    active: true
+  }
+];
