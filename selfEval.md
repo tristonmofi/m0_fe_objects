@@ -1,5 +1,8 @@
 # Self-Evaluation
 
 - WThis final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
+  -I felt frustrated at times, but those moments would only last a few minutes. most of my hard challenges were accepted quickly and my perception would alter with it. I began looking at everything as a puzzle, and focusing my attention on each part of a statement or piece of logic. I knew I needed to know every step to its fullest, so I could re-think the problem with a solution. I am continuing to learn how to narrow my searches down when learning or researching outside of what we have been taught. I also learned to do my best to not go down a rabbit hole when researching.
+- How is your workflow going, in terms of taking breaks, staying focused, etc.? 
+  - I feel my work flow has been effecient for the most part. When I notice myself becomiing unproductive I step away from the computer for a little bit to refresh my brain. I usually only do this for a few minutes. I typically take a 20-30 minute break after an hour or two hours. I go with what I feel my body is telling me while continuing to be as effecient and productive as possible. 
 - What did you learn from this exercise that you want to remember as you begin Mod 1?
+  -How powerful objects and functions are. I want to get to know them and practice them as much as possible as our 2 week break nears. 
